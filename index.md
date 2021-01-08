@@ -1,5 +1,3 @@
-the core constructs being Headings, Styling text, Quoting text, Quoting code, Links, Section links, Relative links, Lists, and Task lists
-
 # Hello All
 ## My name is Andrew
 
@@ -42,4 +40,4 @@ Places I traveled:
 - [x] Mexico
 - [ ] Japan
 
-Go back to the [top](https://github.com/AndrewDPham/LabOne/blob/main/index.md#hello-all) of the page!
+Go back to the [top](https://andrewdpham.github.io/LabOne/#my-name-is-andrew) of the page!

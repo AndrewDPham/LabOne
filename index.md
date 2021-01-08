@@ -17,14 +17,16 @@ How to print in Java:
 System.out.println()
 ```
 
-This is a link to my [personal website](https://andrewdpham.github.io/)
+This is a link to my [personal website](https://andrewdpham.github.io/) 
+
 [Cool Image](dawnbringer.jpg)
 
 
 I like to:
 - Code
 - Sleep
-- Relax
+- Relax 
+
 But in this order:
 1. Code
 2. Sleep
@@ -39,3 +41,5 @@ Places I traveled:
 - [x] South Korea
 - [x] Mexico
 - [ ] Japan
+
+Go back to the [top](https://github.com/AndrewDPham/LabOne/blob/main/index.md#hello-all) of the page!

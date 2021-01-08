@@ -7,7 +7,7 @@ the core constructs being Headings, Styling text, Quoting text, Quoting code, Li
 *Andrew Pham (Italicized)* 
 ~~Andrew Pham (Crossed Out)~~ 
 **_Andrew Pham (Nested Bold and Italicized)_ is cool** 
-***Andrew Pham (Bold and Italicized*** 
+***Andrew Pham (Bold and Italicized)*** 
 
 A quote from a movie:
 > "Life is like a box of chocolates"
@@ -18,19 +18,24 @@ System.out.println()
 ```
 
 This is a link to my [personal website](https://andrewdpham.github.io/)
-[Cool Image](dawnbring.jpg)
+[Cool Image](dawnbringer.jpg)
 
 
 I like to:
--Code
--Sleep
--Relax
+- Code
+- Sleep
+- Relax
+But in this order:
+1. Code
+2. Sleep
+3. Relax
 
 This is a nested list:
 1. Hello
-   -First Item
-    -Second Item
-
--[x] Go to Korea
--[x] Go to Mexico
--[ ] Go to Japan
+   - First Item
+     - Second Item
+     
+Places I traveled:
+- [x] South Korea
+- [x] Mexico
+- [ ] Japan
